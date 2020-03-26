@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
-	"name": "Темно-Материевый конвейер",
-	"description": "Темно-Материевый конвейер.",
+	"name": "Dark conveyor",
+	"description": "Dark Dark conveyor",
 	"health": 250,
 	"requirements": [
 		{"item": "dark-steel", "amount": 1},
