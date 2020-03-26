@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
-	"name": "Infinitium conveyor",
-	"description": "Uses power of infinitium to be faster than Dark Matter Conveyor",
+	"name": "Тёмно-Германиевый конвеер",
+	"description": "Использует силу темного Германия. Еще быстрее чем чем Темно-Материевый конвеер",
 	"health": 8000,
 	"requirements": [
 		{"item": "dark-steel", "amount": 40},
