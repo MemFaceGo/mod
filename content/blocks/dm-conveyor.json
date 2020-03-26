@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Темно-Материевый конвейер",
-	"description": "Быстрее, чем квантовый конвейер.",
+	"description": "Быстрее, чем квантовый конвейер",
 	"health": 2500,
 	"requirements": [
 		{"item": "dark-steel", "amount": 8},
