@@ -1,5 +1,5 @@
 {
-	"type": "battery",
+	"type": "batteryLarge",
 	"name": "Lithium battery",
 	"size": 3,
 	"health": 2000,
