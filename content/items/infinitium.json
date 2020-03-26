@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "Тёмный Германий",
-	"description": "Something strange but very beautiful",
+	"description": "Что-то странное, но очень красивое",
 	"hardness": 20,
 	"cost": 45.0,
 	"color": "#000000",

@@ -1,6 +1,6 @@
 {
-	"name": "Super Tithorium Wall",
-	"description": "Has more protection than common tithorium wall",
+	"name": "Супер Титориевая стена",
+	"description": "Имеет больше защиты, чем обычная стенка титория.",
 	"type": "Wall",
 	"health": 2030,
 	"size": 1,

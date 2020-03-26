@@ -1,6 +1,6 @@
 {
-	"name": "Large Tithorium Wall",
-	"description": "This is tithorium wall ,but bigger",
+	"name": "Большая Титориевая стена",
+	"description": "Это стена из титория, но больше.",
 	"type": "Wall",
 	"health": 5400,
 	"size": 2,
