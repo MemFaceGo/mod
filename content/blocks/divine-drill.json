@@ -1,6 +1,6 @@
 {
-	"name": "Мега бур",
-	"description": "The fastest drill",
+	"name": "Германиумный бур",
+	"description": "Самый высокоскоростной бур",
 	"type": "Drill",
 	"size": 5,
 	"health": 75000,
