@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
-	"name": "Титориевый конвейер",
-	"description": "Использует титорий в качестве генератора энергии, чтобы получить высокую скорость.",
+	"name": "Empovered conveyor",
+	"description": "Uses tithorium as energy generator to get high speed",
 	"health": 650,
 	"requirements": [
 		{"item": "dark-steel", "amount": 3},

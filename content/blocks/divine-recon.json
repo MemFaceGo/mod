@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "Квантовая[#5BDBD5] печь"
-	"description": "Очень сложный процесс по созданию Германия производится именно в таких печах.",
+	"name": "[#5BDBD5]Divine Reconstructor"
+	"description": "Use this machine to get [#5BDBD5]Divinium",
 	"health": 30000,
 	"itemCapacity": 25,
 	"outputItem": {"item": "divinium", "amount": 1},

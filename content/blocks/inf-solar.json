@@ -1,7 +1,7 @@
 {
 	"type": "SolarGenerator",
-	"name": "Тёмно-Германиевая панель",
-	"description": "На много лучше чем солнечная панель.",
+	"name": "Infinity Solar Generator",
+	"description": "The best solar panel",
 	"size": 3,
 	"health": 32000,
     "powerProduction": 6000,

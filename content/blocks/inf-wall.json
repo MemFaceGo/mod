@@ -1,6 +1,6 @@
 {
-	"name": "Тёмно-Германиевая стена",
-	"description": "Использует силу темного Германия что-бы быть самой прочной.",
+	"name": "Infinity Wall",
+	"description": "POWER OF INFINITY",
 	"type": "Wall",
 	"health": 17500,
 	"size": 1,
