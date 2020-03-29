@@ -1,6 +1,6 @@
 {
-	"name": "Германиумный бур",
-	"description": "Самый высокоскоростной бур",
+	"name": "Divine Drill",
+	"description": "The fastest drill",
 	"type": "Drill",
 	"size": 5,
 	"health": 75000,

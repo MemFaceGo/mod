@@ -1,6 +1,6 @@
 {
-	"name": "Большая Тёмно-Германиевая стена",
-	"description": "Использует еще больше силы темного Германия что-бы быть самой прочной.",
+	"name": "Large Infinity Wall",
+	"description": "MORE POWER OF INFINITY",
 	"type": "Wall",
 	"health": 70000,
 	"size": 2,

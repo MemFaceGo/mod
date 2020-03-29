@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "[#666666]Ультра [#FFFFFF]Реконструктор"
-	"description": "Используйте эту машину, чтобы получить Тёмный Германий.",
+	"name": "[#666666]Ultra [#FFFFFF]Reconstructor"
+	"description": "Use this machine to get [#FFFFFF]I[#EEEEEE]n[#DDDDDD]f[#CCCCCC]i[#BBBBBB]n[#AAAAAA]i[#999999]t[#888888]i[#777777]u[#666666]m",
 	"health": 60000,
 	"itemCapacity": 5,
 	"outputItem": {"item": "infinitium", "amount": 1},

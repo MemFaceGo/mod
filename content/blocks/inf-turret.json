@@ -1,7 +1,7 @@
 {
 	"type": "burstTurret",
-	"name": "Тёмно-Германиевая турель",
-	"description": "Самое мощное орудие для убийств врагов.",
+	"name": "Infinity Turret",
+	"description": "o_o",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 20000,

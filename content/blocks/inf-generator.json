@@ -1,7 +1,7 @@
 {
 	"type": "SolarGenerator",
-	"name": "Тёмно-Германиевый генератор",
-	"description": "Генерирует много энергии.",
+	"name": "Infinity Generator",
+	"description": "Generates [red]ALOT[] of energy",
 	"size": 3,
 	"health": 51000,
     "powerProduction": 12000,

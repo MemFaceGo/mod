@@ -1,6 +1,6 @@
 {
-	"name": "Большая Супер Титориевая стена",
-	"description": "Большая Супер Титориевая стена.",
+	"name": "Large Super Tithorium Wall",
+	"description": "Large Super Tithorium Wall , or LSTW. Larger version of STW (Super Tithorium Wall)",
 	"type": "Wall",
 	"health": 8120,
 	"size": 2,
