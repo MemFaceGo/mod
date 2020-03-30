@@ -10,7 +10,7 @@
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
-	"craftTime": 240,
+	"craftTime": 120,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 4.0,
