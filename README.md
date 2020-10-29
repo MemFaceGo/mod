@@ -2,7 +2,10 @@
 
 # Better-Blocks-Mod
 This mod adds more blocks , materials and enemies.
+
+
 The mod is being developed specifically for mindustry.ru.
+
 For all questions, write to Discord: https://discord.mindustry.ru/
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/658670734222163989/widget.png?style=banner2)
