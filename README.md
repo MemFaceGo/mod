@@ -1,10 +1,10 @@
 ![Logo](sprites/Better-Blocks_Mod.png)
 
+# Better-Blocks-Mod
+
 <details> 
   <summary>ENG Description</summary>
-# Better-Blocks-Mod
-This mod adds more blocks , materials and enemies.
-
+Better-Blocks-Mod: this mod adds more blocks , materials and enemies.
 
 The mod is being developed specifically for mindustry.ru.
 
@@ -14,8 +14,7 @@ For all questions, write to Discord: https://discord.mindustry.ru/
 
 <details> 
   <summary>RUS Description</summary>
-# Better-Blocks-Mod
-Этот мод добавляет больше блоков, материалов и врагов.
+Better-Blocks-Mod: Этот мод добавляет больше блоков, материалов и врагов.
 
 
 Мод разрабатывается специально для mindustry.ru.
