@@ -63,3 +63,8 @@ Better-Blocks-Mod: Этот мод добавляет больше блоков,
 # Translators
 - [MemFaceGo](https://github.com/MemFaceGo) (Russian - Owner)
 - [MINDUSTRYRU](https://github.com/MINDUSTRYRU) (First Developer)
+
+# Discord Server
+.. image:: https://discord.com/api/guilds/658670734222163989/widget.png?style=banner4
+   :target: https://discord.gg/5jJrXEk
+   :alt: Discord server invite
