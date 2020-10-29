@@ -8,7 +8,7 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
   
   <details> 
   <summary>Conveyors</summary>
-  ![alt text](sprites/All_Blocks/Conveyors.png "Conveyors") 
+![alt text](sprites/All_Blocks/Conveyors.png "Conveyors") 
   </details>
   
 </details>
