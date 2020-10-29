@@ -66,4 +66,4 @@ Better-Blocks-Mod: Этот мод добавляет больше блоков,
 
 # Discord Server Online
 
-<img src="https://discordapp.com/api/guilds/658670734222163989/widget.png?style=banner4" alt="Discord Banner 4"/>
+<a href="https://discord.mindustry.ru/"><img src="https://discordapp.com/api/guilds/658670734222163989/widget.png?style=banner4" alt="Discord Banner 4"/></a>
