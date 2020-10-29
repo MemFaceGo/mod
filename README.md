@@ -5,28 +5,36 @@ This mod adds more blocks , materials and enemies (I'll add enemies soon) (OH NO
 
 <details> 
   <summary>All blocks of this mod</summary>
-   <a name="Headers"></a>##Conveyors
+   #Conveyors
+   
 ![alt text](sprites/All_Blocks/Conveyors.png "Conveyors") 
 
-   ##Drill
+   #Drill
+   
 ![alt text](sprites/All_Blocks/Drill.png "Drill") 
 
-   ##Energy
+   #Energy
+   
 ![alt text](sprites/All_Blocks/Energy.png "Energy") 
 
-   ##Factories
+   #Factories
+   
 ![alt text](sprites/All_Blocks/Factories.png "Factories") 
 
-   ##Proector&Storage
+   #Proector&Storage
+   
 ![alt text](sprites/All_Blocks/Proector&Storage.png "Proector&Storage") 
 
-   ##Reconstructor
+   #Reconstructor
+   
 ![alt text](sprites/All_Blocks/Reconstructor.png "Reconstructor") 
 
-   ##Turrets
+   #Turrets
+   
 ![alt text](sprites/All_Blocks/Turrets.png "Turrets") 
 
-   ##Walls
+   #Walls
+   
 ![alt text](sprites/All_Blocks/Walls.png "Walls")  
 </details>
 
