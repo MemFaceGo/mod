@@ -1,4 +1,4 @@
-![Logo](sprites/Better-Blocks_Mod.png)
+![Logo](sprites/ReadMe/Better-Blocks_Mod.png)
 
 # Better-Blocks-Mod
 
@@ -28,35 +28,35 @@ Better-Blocks-Mod: Этот мод добавляет больше блоков,
    
    #Conveyors
    
-![alt text](sprites/All_Blocks/Conveyors.png "Conveyors") 
+![alt text](sprites/ReadMe/Conveyors.png "Conveyors") 
 
    #Drill
    
-![alt text](sprites/All_Blocks/Drill.png "Drill") 
+![alt text](sprites/ReadMe/Drill.png "Drill") 
 
    #Energy
    
-![alt text](sprites/All_Blocks/Energy.png "Energy") 
+![alt text](sprites/ReadMe/Energy.png "Energy") 
 
    #Factories
    
-![alt text](sprites/All_Blocks/Factories.png "Factories") 
+![alt text](sprites/ReadMe/Factories.png "Factories") 
 
    #Proector&Storage
    
-![alt text](sprites/All_Blocks/Proector&Storage.png "Proector&Storage") 
+![alt text](sprites/ReadMe/Proector&Storage.png "Proector&Storage") 
 
    #Reconstructor
    
-![alt text](sprites/All_Blocks/Reconstructor.png "Reconstructor") 
+![alt text](sprites/ReadMe/Reconstructor.png "Reconstructor") 
 
    #Turrets
    
-![alt text](sprites/All_Blocks/Turrets.png "Turrets") 
+![alt text](sprites/ReadMe/Turrets.png "Turrets") 
 
    #Walls
    
-![alt text](sprites/All_Blocks/Walls.png "Walls")  
+![alt text](sprites/ReadMe/Walls.png "Walls")  
 </details>
 
 
