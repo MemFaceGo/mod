@@ -64,6 +64,6 @@ Better-Blocks-Mod: Этот мод добавляет больше блоков,
 - [MemFaceGo](https://github.com/MemFaceGo) (Russian - Owner)
 - [MINDUSTRYRU](https://github.com/MINDUSTRYRU) (First Developer)
 
-# Discord Server Online
+# Discord Server
 
 <a href="https://discord.mindustry.ru/"><img src="https://discordapp.com/api/guilds/658670734222163989/widget.png?style=banner4" alt="Discord Banner 4"/></a>
