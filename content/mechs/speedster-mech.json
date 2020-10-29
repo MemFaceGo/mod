@@ -1,8 +1,8 @@
 {
 	"name": "Speedster",
 	"description": "Empowered Striker unit that can be controlled",
-	"speed": 3.0,
-	"buildPower": 200.0,
+	"speed": 1.5,
+	"buildPower": 135.0,
 	"hitsize": 24,
 	"engineColor": "666495",
 	"flying": true,
@@ -12,10 +12,10 @@
 	"weapon": {
 		"name": "OOF",
 		"length": 3.5,
-		"reload": 6,
+		"reload": 11,
 		"alternate": true,
 		"bullet": {
-			"speed": 12,
+			"speed": 4,
 			"damage": 400,
 			"bulletWidth": 8,
 			"bulletHeight": 23,
