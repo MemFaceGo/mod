@@ -65,6 +65,7 @@ Better-Blocks-Mod: Этот мод добавляет больше блоков,
 - [MINDUSTRYRU](https://github.com/MINDUSTRYRU) (First Developer)
 
 # Discord Server
+
 .. image:: https://discord.com/api/guilds/658670734222163989/widget.png?style=banner4
    :target: https://discord.gg/5jJrXEk
    :alt: Discord server invite
