@@ -21,7 +21,7 @@
 	"reload": 50,
 	"shootCone": 80,
 	"shots": 4,
-	"range": 320,
+	"range": 280,
 	"requirements": [
 		{ "item": "comp-titanium", "amount": 18 },
 		{ "item": "dark-steel", "amount": 70 }
