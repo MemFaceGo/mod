@@ -23,44 +23,8 @@ Better-Blocks-Mod: Этот мод добавляет больше блоков,
 ![Discord Shield](https://discordapp.com/api/guilds/658670734222163989/widget.png?style=shield)
 </details>
 
-<details> 
-  <summary>All blocks of this mod</summary>
-   
-   #Conveyors
-   
-![alt text](sprites/ReadMe/Conveyors.png "Conveyors") 
 
-   #Drill
-   
-![alt text](sprites/ReadMe/Drill.png "Drill") 
-
-   #Energy
-   
-![alt text](sprites/ReadMe/Energy.png "Energy") 
-
-   #Factories
-   
-![alt text](sprites/ReadMe/Factories.png "Factories") 
-
-   #Proector&Storage
-   
-![alt text](sprites/ReadMe/Proector&Storage.png "Proector&Storage") 
-
-   #Reconstructor
-   
-![alt text](sprites/ReadMe/Reconstructor.png "Reconstructor") 
-
-   #Turrets
-   
-![alt text](sprites/ReadMe/Turrets.png "Turrets") 
-
-   #Walls
-   
-![alt text](sprites/ReadMe/Walls.png "Walls")  
-</details>
-
-
-# Translators
+# Developers
 - [MemFaceGo](https://github.com/MemFaceGo) (Russian - Owner)
 - [MINDUSTRYRU](https://github.com/MINDUSTRYRU) (First Developer)
 
