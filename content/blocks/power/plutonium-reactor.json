@@ -1,7 +1,7 @@
 {
   "type": "NuclearReactor",
-  "name": "Плутониевый реактор",
-  "description": "Очень опасный реактор!!!",
+  "name": "Plutonium reactor",
+  "description": "A very dangerous reactor",
   "size": 4,
   "itemCapacity": 15,
   "consumesPower": false,
