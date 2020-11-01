@@ -11,7 +11,7 @@
 	"craftTime": 300,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 333.3333,
+		"power": 450,
 		"items": {
 			"items": [
 				{ "item": "quantum-ingot", "amount": 4 }

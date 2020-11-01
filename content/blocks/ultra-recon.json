@@ -11,7 +11,7 @@
 	"craftTime": 360,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 200,
+		"power": 2000,
 		"items": {
 			"items": [
 				{ "item": "dark-matter", "amount": 3 },

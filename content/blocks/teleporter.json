@@ -6,7 +6,7 @@
 	"knockback": 0,
 	"rotateSpeed": 100.0,
 	"hasPower": true
-	"minDistribute": 1,
+	"minDistribute": 30,
 	"reloadTime": 5,
 	"range": 500
 	"itemCapacity": 60,
@@ -16,7 +16,7 @@
 	"recieveEffect": "none"
 	"shake": 0,
 	"consumes": {
-		"power": 0.0
+		"power": 1.0
 	},
 	"size": 1,
 	"requirements": [
