@@ -14,5 +14,6 @@
 		{ "item": "plut", "amount": 25 },
 		{ "item": "quantum-ingot", "amount": 8 },
 	]
+	"category": "effect"
 	"research": "glaive-ship-pad"
 }
