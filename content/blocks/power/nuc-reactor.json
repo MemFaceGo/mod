@@ -1,9 +1,10 @@
 {
-	"type": "ImpactReactor",
 	"name": "Nuclear Reactor",
 	"description": "Reactor that makes alot of energy",
 	"itemCapacity": 10,
 	"size": 6,
+	"explosionRadius": 15,
+	"explosionDamage": 12000,
 	"hasLiquids": true,
     "powerProduction": 250,
     "itemDuration" :500,
