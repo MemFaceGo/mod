@@ -30,10 +30,10 @@
     }
   },
   "requirements": [
-		{ "item": "enriched-uran", "amount": 80 },
+		{ "item": "enriched-uran", "amount": 100 },
 		{ "item": "dark-steel", "amount": 600 },
-		{ "item": "graphite", "amount": 1350 },
-		{ "item": "metaglass", "amount": 280 }
+		{ "item": "graphite", "amount": 2135 },
+		{ "item": "plut", "amount": 10 }
 	],
   "category": "power",
   "research": "thorium-reactor"
