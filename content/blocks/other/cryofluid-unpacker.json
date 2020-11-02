@@ -3,19 +3,19 @@
 "type": "GenericCrafter", 
 "name": "Cryofluid unpacker", 
 "description": "Unacks [#87ceeb]cryofluid[white] from [cyan]universal liquid capsules[white].", 
-"health": 250, 
+"health": 70, 
 "size": 1, 
    "requirements": 
    [
-   {"item": "copper", "amount": 10}, 
-   {"item": "titanium", "amount": 5}, 
-   {"item": "metaglass", "amount": 5}
+   {"item": "copper", "amount": 1000}, 
+   {"item": "titanium", "amount": 500}, 
+   {"item": "metaglass", "amount": 500}
    ], 
    
    "hasPower": true, 
    "hasItems": true, 
    "hasLiquids": true, 
-   "craftTime": 25, 
+   "craftTime": 7, 
    "consumes": 
    {
    "power": 1.5, 
