@@ -4,7 +4,7 @@
 	"description": "Uses carbon mass to get carbon",
 	"health": 2000,
 	"itemCapacity": 20,
-	"outputItem": { "item": "carbon", "amount": 1 }
+	"outputItem": { "item": "carbon", "amount": 2 }
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,

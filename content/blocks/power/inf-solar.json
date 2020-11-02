@@ -4,7 +4,7 @@
 	"description": "The best solar panel",
 	"size": 3,
 	"health": 32000,
-    "powerProduction": 1800,
+    "powerProduction": 1000,
 	"requirements": [
 		{"item": "infinitium", "amount": 2},
 		{"item": "dark-matter", "amount": 5}

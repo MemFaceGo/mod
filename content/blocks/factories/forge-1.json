@@ -4,7 +4,7 @@
 	"description": "Combines titanium and thorium to produce tithorium.",
 	"health": 2000,
 	"itemCapacity": 20,
-	"outputItem": {"item": "tithorium", "amount": 1},
+	"outputItem": {"item": "tithorium", "amount": 2},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,

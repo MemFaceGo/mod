@@ -4,7 +4,7 @@
 	"description": "Don't touch this machine",
 	"health": 8000,
 	"itemCapacity": 10,
-	"outputItem": {"item": "plut", "amount": 1},
+	"outputItem": {"item": "plut", "amount": 2},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,

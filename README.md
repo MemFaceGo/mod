@@ -25,8 +25,10 @@ Better-Blocks-Mod: Этот мод добавляет больше блоков,
 
 
 # Developers
-- [MemFaceGo](https://github.com/MemFaceGo) (Russian - Owner)
-- [MINDUSTRYRU](https://github.com/MINDUSTRYRU) (First Developer)
+
+- [MindustryRu](https://github.com/MindustryRu) (Head Developer)
+- [MemFaceGo](https://github.com/MemFaceGo) (First Developer)
+
 
 # Discord Server
 

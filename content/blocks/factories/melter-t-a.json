@@ -5,7 +5,7 @@
 	"health": 2850,
 	"itemCapacity": 5,
 	"liquidCapacity": 12,
-	"outputLiquid": {"liquid": "enriched-slag", "amount": 2},
+	"outputLiquid": {"liquid": "enriched-slag", "amount": 4},
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,

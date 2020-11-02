@@ -4,7 +4,7 @@
 	"description": "Decompresses and reforges compressed thorium into radioactive uranium",
 	"health": 2000,
 	"itemCapacity": 4,
-	"outputItem": {"item": "uran", "amount": 1},
+	"outputItem": {"item": "uran", "amount": 2},
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,

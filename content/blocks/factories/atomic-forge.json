@@ -4,7 +4,7 @@
 	"description": "Use this machine to get [#4a004a]dark matter",
 	"health": 40000,
 	"itemCapacity": 6,
-	"outputItem": {"item": "dark-matter", "amount": 1},
+	"outputItem": {"item": "dark-matter", "amount": 2},
 	"size": 8,
 	"hasPower": true,
 	"hasItems": true,

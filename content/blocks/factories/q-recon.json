@@ -5,7 +5,7 @@
 	"health": 25000,
 	"itemCapacity": 5,
 	"liquidCapacity": 160,
-	"outputLiquid": {"liquid": "quantum-liquid", "amount": 32},
+	"outputLiquid": {"liquid": "quantum-liquid", "amount": 64},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,

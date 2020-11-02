@@ -4,7 +4,7 @@
 	"description": "Generates [red]ALOT[] of energy",
 	"size": 3,
 	"health": 51000,
-    "powerProduction": 2500,
+    "powerProduction": 1500,
 	"requirements": [
 		{"item": "infinitium", "amount": 4},
 		{"item": "dark-matter", "amount": 12}

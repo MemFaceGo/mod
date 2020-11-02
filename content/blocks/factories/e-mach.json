@@ -4,7 +4,7 @@
 	"description": "This maching doing uranium enrichment (Needs so many power).",
 	"health": 700,
 	"itemCapacity": 4,
-	"outputItem": {"item": "enriched-uran", "amount": 1},
+	"outputItem": {"item": "enriched-uran", "amount": 2},
 	"size": 1,
 	"hasPower": true,
 	"hasItems": true,

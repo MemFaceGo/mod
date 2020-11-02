@@ -4,7 +4,7 @@
 	"description": "You can get DIAMOND from it.",
 	"health": 12000,
 	"itemCapacity": 50,
-	"outputItem": {"item": "diamond", "amount": 1},
+	"outputItem": {"item": "diamond", "amount": 2},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,

@@ -4,7 +4,7 @@
 	"description": "Uses coal and oil to get carbon mass",
 	"health": 1400,
 	"itemCapacity": 20,
-	"outputItem": { "item": "carbon-mass", "amount": 1 }
+	"outputItem": { "item": "carbon-mass", "amount": 2 }
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,

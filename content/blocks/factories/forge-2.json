@@ -4,7 +4,7 @@
 	"description": "Upgrades Tithorium to Super Tithorium.",
 	"health": 5000,
 	"itemCapacity": 40,
-	"outputItem": {"item": "super-tithorium", "amount": 1},
+	"outputItem": {"item": "super-tithorium", "amount": 2},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,

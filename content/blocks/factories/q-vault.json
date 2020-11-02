@@ -7,9 +7,9 @@
 	"health": 100000,
 	"size": 3,
 	"requirements": [
-		{ "item": "quantum-ingot", "amount": 3 },
-		{ "item": "dark-steel", "amount": 1200 },
-		{ "item": "titanium", "amount": 1800 }
+		{ "item": "quantum-ingot", "amount": 245 },
+		{ "item": "dark-steel", "amount": 2400 },
+		{ "item": "titanium", "amount": 3600 }
 	],
 	"category": "effect"
 	"research": "vault"
