@@ -1,0 +1,16 @@
+{
+	"name": "Quantum Vault",
+	"description": "The best vault",
+	"type": "Vault",
+	"itemCapacity": 230000,
+	"hasItems": true,
+	"health": 100000,
+	"size": 3,
+	"requirements": [
+		{ "item": "quantum-ingot", "amount": 245 },
+		{ "item": "dark-steel", "amount": 2400 },
+		{ "item": "titanium", "amount": 3600 }
+	],
+	"category": "effect"
+	"research": "vault"
+}

@@ -1,0 +1,28 @@
+{
+	"itemCapacity": 10,
+	"size": 6,
+	"explosionRadius": 15,
+	"explosionDamage": 12000,
+	"hasLiquids": true,
+    "powerProduction": 250,
+    "itemDuration" :500,
+	"consumes": {
+	    "power": 40.0,
+		"item": "nuclear-fuel",
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.3
+			}
+    },
+	"requirements": [
+		{ "item": "enriched-uran", "amount": 40 },
+		{ "item": "dark-steel", "amount": 300 },
+		{ "item": "graphite", "amount": 800 },
+		{ "item": "metaglass", "amount": 1000 },
+		{ "item": "silicon", "amount": 500 }
+	],
+	"category": "power",
+	"research": "impact-reactor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.05
+}
