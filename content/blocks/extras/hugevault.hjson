@@ -1,0 +1,12 @@
+name: Quantum Vault
+description: The best vault
+size: 4
+health: 100000
+itemCapacity: 230000
+requirements: [
+		quantum-ingot/245
+		dark-steel/2400
+		titanium/3600
+	]
+category: effect
+research: vault

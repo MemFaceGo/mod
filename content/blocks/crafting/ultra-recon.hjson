@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Ultra Reconstructor
+description: Use this machine to get Infinitium
+health: 60000
+itemCapacity: 5
+outputItem: infinitium/2
+size: 8
+hasPower: true
+hasItems: true
+craftTime: 360
+updateEffect: smeltsmoke
+consumes: {
+		power: 2000
+		items: {
+			items: [
+				dark-matter/3
+				divinium/2
+			]
+		}
+	}
+requirements: [
+		quantum-ingot/30
+		dark-steel/5000
+		divinium/5
+	]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.05
+research: divine-recon

@@ -1,0 +1,10 @@
+type: material
+name: Slag capsule
+description: Universal liquid capsule with slag
+hardness: 1.0
+cost: 2.0
+color: ffcd66
+radioactivity: 0
+flammability: 0
+explosiveness: 0
+alwaysUnlocked: false
