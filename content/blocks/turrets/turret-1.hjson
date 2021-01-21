@@ -1,7 +1,7 @@
 name: Turret A100-Mem
 description: Uses compressed titanium/thorium.
 type: itemTurret
-range: 250
+range: 125
 recoil: 9
 reloadTime: 15
 size: 3
