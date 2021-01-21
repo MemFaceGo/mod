@@ -1,4 +1,4 @@
-![Logo](https://github.com/MindustryRu/mod/tree/master/sprites/ReadMe/Better-Blocks-Mod.gif)
+![Logo](sprites/ReadMe/Better-Blocks-Mod.gif)
 
 # Better-Blocks-Mod
 # Mod Mindustry v6.0
