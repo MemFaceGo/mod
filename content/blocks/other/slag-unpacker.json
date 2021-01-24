@@ -1,8 +1,6 @@
 {
 
 "type": "GenericCrafter", 
-"name": "Slag unpacker", 
-"description": "Unacks [#ffcd66]slag[white] from [cyan]universal liquid capsules[white].", 
 "health": 70, 
 "size": 1, 
    "requirements": 

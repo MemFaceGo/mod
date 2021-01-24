@@ -1,6 +1,4 @@
 type: ItemTurret
-name: Infinity Turret
-description: o_o
 shootSound: laser
 health: 20000
 size: 4

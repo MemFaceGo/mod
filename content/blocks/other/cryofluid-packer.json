@@ -1,8 +1,6 @@
 {
 
 "type": "GenericCrafter", 
-"name": "Cryofluid packer", 
-"description": "Packs [#87ceeb]cryofluid[white] to [cyan]universal liquid capsules[white].", 
 "health": 70, 
 "size": 1, 
    "requirements": 

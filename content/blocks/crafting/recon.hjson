@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Reconstructor
-description: You can get RUBY from it.
 health: 15000
 itemCapacity: 2
 outputItem: ruby/2

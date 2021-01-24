@@ -1,6 +1,4 @@
 {
-	"name": "Infinity Wall",
-	"description": "POWER OF INFINITY",
 	"type": "Wall",
 	"health": 17500,
 	"size": 1,

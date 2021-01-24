@@ -1,8 +1,6 @@
 {
 
 "type": "GenericCrafter", 
-"name": "Enriched Slag packer", 
-"description": "Packs [#ff8040]enriched slag[white] to [cyan]universal liquid capsules[white].", 
 "health": 70, 
 "size": 1, 
    "requirements": 

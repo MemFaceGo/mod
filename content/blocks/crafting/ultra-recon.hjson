@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Ultra Reconstructor
-description: Use this machine to get Infinitium
 health: 60000
 itemCapacity: 5
 outputItem: infinitium/2

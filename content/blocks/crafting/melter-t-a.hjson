@@ -1,6 +1,4 @@
 type: GenericCrafter
-name: Melter Type (A)
-description: Uses so many scrap to get enriched slag
 health: 2850
 itemCapacity: 5
 liquidCapacity: 12

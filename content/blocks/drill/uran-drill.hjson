@@ -1,5 +1,3 @@
-name: Uranium Drill
-description: Uses power of uranium to drill faster
 type: Drill
 size: 3
 health: 2000

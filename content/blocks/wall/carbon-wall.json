@@ -1,6 +1,4 @@
 {
-	"name": "Carbon Wall",
-	"description": "Upgraded version of steel wall",
 	"type": "Wall",
 	"health": 2340,
 	"size": 1,

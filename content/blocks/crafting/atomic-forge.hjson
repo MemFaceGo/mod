@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Atomic Forge
-description: Use this machine to get Dark Matter
 health: 40000
 itemCapacity: 6
 outputItem: dark-matter/2

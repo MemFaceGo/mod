@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Forge S200-Titanium Plus
-description: Upgrades Tithorium to Super Tithorium.
 health: 5000
 itemCapacity: 40
 outputItem: super-tithorium/2

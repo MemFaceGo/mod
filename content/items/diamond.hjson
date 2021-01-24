@@ -1,6 +1,4 @@
 type: material
-name: Diamond
-description: Diamond ball...
 hardness: 10
 cost: 15.0
 color: ADD8E6

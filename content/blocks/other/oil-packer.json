@@ -1,8 +1,6 @@
 {
 
 "type": "GenericCrafter", 
-"name": "Oil packer", 
-"description": "Packs [#313131]oil[white] to [cyan]universal liquid capsules[white].", 
 "health": 70, 
 "size": 1, 
    "requirements": 

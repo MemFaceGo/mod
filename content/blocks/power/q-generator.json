@@ -1,7 +1,5 @@
 {
 	"type": "NuclearReactor",
-	"name": "Quantum Reactor",
-	"description": "Uses [purple]Quantum Acid[] and [#555555]Plutonium[] to get [purple]SO MANY POWER",
 	"health": 25000,
 	"liquidCapacity": 100,
 	"size": 4,

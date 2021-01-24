@@ -1,6 +1,4 @@
 type: material
-name: Cryofluid capsule
-description: Universal liquid capsule with cryofluid
 hardness: 1.0
 cost: 2.0
 color: 87ceeb

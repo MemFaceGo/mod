@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Thorium Compresor
-description: You can get compressed thorium from it.
 health: 2600
 itemCapacity: 15
 outputItem: comp-thorium/2

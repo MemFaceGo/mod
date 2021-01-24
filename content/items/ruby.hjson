@@ -1,6 +1,4 @@
 type: material
-name: Ruby
-description: Ruby ball... or remake of diamond
 hardness: 10
 cost: 18.0
 color: DC143C

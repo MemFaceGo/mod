@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "Turret L200-U Omega MK2",
-	"description":"The best turret",
 	"size": 4,
 	"health": 1900,
 	"reloadTime": 10,

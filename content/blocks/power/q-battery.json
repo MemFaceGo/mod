@@ -1,6 +1,5 @@
 {
 	"type": "battery",
-	"name": "Quantum battery",
 	"size": 3,
 	"health": 12000,
 	"category": "power",

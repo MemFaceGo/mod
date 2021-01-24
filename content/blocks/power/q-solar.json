@@ -1,7 +1,5 @@
 {
 	"type": "SolarGenerator",
-	"name": "Quantum solar panel",
-	"description": "This solar panel one of the best energy generators",
 	"size": 3,
 	"health": 20000,
     "powerProduction": 20,

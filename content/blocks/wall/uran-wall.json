@@ -1,6 +1,4 @@
 {
-	"name": "Uranium Wall",
-	"description": "So nice wall.",
 	"type": "Wall",
 	"health": 1450,
 	"size": 1,

@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "Turret L200-U Omega",
-	"description": "hmmm.....",
 	"size": 4,
 	"health": 2050,
 	"reloadTime": 48,

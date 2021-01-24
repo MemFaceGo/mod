@@ -1,6 +1,4 @@
 type: material
-name: Carbon Mass
-description: This material is worse version of carbon
 hardness: 3
 cost: 4
 color: 343637

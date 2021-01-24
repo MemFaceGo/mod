@@ -1,5 +1,3 @@
-name: Teleporter
-description: Copy of teleporter from Mindustry Classic
 type: MassDriver
 health: 720
 knockback: 0

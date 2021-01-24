@@ -1,6 +1,4 @@
 type: Conveyor
-name: Iron conveyor
-description: Better than common conveyor ,but worse than titanium
 requirements: [
   iron/1
   copper/1

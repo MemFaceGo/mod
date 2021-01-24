@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Forge S100-Titanium
-description: Combines titanium and thorium to produce tithorium.
 health: 2000
 itemCapacity: 20
 outputItem: tithorium/2

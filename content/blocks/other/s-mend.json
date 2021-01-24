@@ -1,6 +1,4 @@
 {
-	"name": "Super Mend Projector",
-	"description": "OP version of mend projector",
 	"type": "MendProjector"
 	"health": 30000,
 	"size": 3,

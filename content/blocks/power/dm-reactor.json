@@ -1,7 +1,5 @@
 {
 	"type": "SolarGenerator",
-	"name": "Dark Matter Reactor",
-	"description": "Generates alot of energy",
 	"size": 2,
 	"health": 24000,
     "powerProduction": 1655,

@@ -1,6 +1,4 @@
 type: Conveyor
-name: Dark Matter conveyor
-description: Faster than quantum conveyor
 requirements: [
   dark-steel/8
   quantum-ingot/2

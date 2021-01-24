@@ -1,6 +1,4 @@
 {
-	"name": "Uranium Wall large",
-	"description": "Larger version of uranium wall",
 	"type": "Wall",
 	"health": 5800,
 	"size": 2,

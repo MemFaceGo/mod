@@ -1,6 +1,4 @@
 type: material
-name: Oil capsule
-description: Universal liquid capsule with oil
 hardness: 1.0
 cost: 2.0
 color: 313131

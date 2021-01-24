@@ -1,6 +1,4 @@
 {
-	"name": "Super Power Node",
-	"description": "._.",
 	"type": "PowerNode",
 	"health": 25000,
 	"size": 3,

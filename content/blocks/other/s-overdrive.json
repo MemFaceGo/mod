@@ -1,6 +1,4 @@
 {
-	"name": "Super Overdrive Projector",
-	"description": "OP version of overdrive projector",
 	"type": "OverdriveProjector"
 	"health": 40000,
 	"size": 2,

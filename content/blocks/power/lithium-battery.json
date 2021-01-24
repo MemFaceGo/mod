@@ -1,6 +1,5 @@
 {
 	"type": "battery",
-	"name": "Lithium battery",
 	"size": 3,
 	"health": 2000,
 	"category": "power",

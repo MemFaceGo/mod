@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "Turret A200-Uran",
-	"description":"BIG TURRET",
 	"size": 4,
 	"health": 1600,
 	"reloadTime": 24,

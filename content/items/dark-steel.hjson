@@ -1,6 +1,4 @@
 type: material
-name: Dark Steel
-description: Better Version of iron
 hardness: 8
 cost: 2.2
 color: 3a3a3a

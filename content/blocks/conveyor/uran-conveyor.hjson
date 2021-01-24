@@ -1,6 +1,4 @@
 type: Conveyor
-name: Uranium conveyor
-description: Conveyor that made for faster item gain
 requirements: [
   dark-steel/2
   uran/1

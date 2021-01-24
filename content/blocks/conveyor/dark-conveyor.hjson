@@ -1,6 +1,4 @@
 type: Conveyor
-name: Dark conveyor
-description: Dark Dark conveyor
 requirements: [
   dark-steel/1
   carbon/1

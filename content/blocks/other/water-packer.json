@@ -1,8 +1,6 @@
 {
 
 "type": "GenericCrafter", 
-"name": "Water packer", 
-"description": "Packs [#486acd]water[white] to [cyan]universal liquid capsules[white].", 
 "health": 70, 
 "size": 1, 
    "requirements": 

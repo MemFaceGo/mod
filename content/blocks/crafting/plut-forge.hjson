@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Plutonium Forge
-description: Don't touch this machine
 health: 8000
 itemCapacity: 10
 outputItem: plut/2

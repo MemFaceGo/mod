@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Fuel Compressor
-description: Makes Nuclear Fuel.
 health: 5000
 itemCapacity: 20
 outputItem: nuclear-fuel/2

@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "[#FD7A01]Flamethrower",
-	"description": "Uses something hot to use flame power",
 	"size": 3,
 	"health": 2050,
 	"reloadTime": 6,

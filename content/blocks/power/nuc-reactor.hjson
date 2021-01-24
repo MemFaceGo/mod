@@ -1,6 +1,4 @@
 type: ImpactReactor
-name: "Nuclear Reactor"
-description: "Nuclear Reactor"
 size: 6
 hasPower: true
 hasLiquids: true

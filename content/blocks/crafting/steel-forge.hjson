@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Steel Forge
-description: Makes Dark Steel.
 health: 2000
 itemCapacity: 10
 outputItem: dark-steel/2

@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "Laser Turret U120-Super MK2",
-	"description":"Laser Turret",
 	"size": 4,
 	"health": 2800,
 	"reloadTime": 10,

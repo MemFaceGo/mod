@@ -1,6 +1,4 @@
 type: material
-name: Iron
-description: Iron...
 hardness: 3
 cost: 1.2
 color: 9F8464

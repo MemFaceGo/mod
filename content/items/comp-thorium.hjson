@@ -1,6 +1,4 @@
 type: material
-name: Compressed Thorium
-description: This material...
 hardness: 10
 cost: 2.6
 color: EE82EE

@@ -1,7 +1,5 @@
 {
 	"type": "PowerTurret",
-	"name": "Giant Turret OMEGA-1",
-	"description":"GIANT TURRET that needs alot of energy and cryofluid",
 	"size": 5,
 	"health": 3000,
 	"reloadTime": 20,

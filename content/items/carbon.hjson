@@ -1,6 +1,4 @@
 type: material
-name: Carbon
-description: Perfect material
 hardness: 12
 cost: 2
 color: 282929

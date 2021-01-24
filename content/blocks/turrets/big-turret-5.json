@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "[#08DBC1]Skygeniser",
-	"description":"Long range sniper turret that can only hit air enemies.",
 	"size": 4,
 	"health": 1800,
 	"reloadTime": 40,

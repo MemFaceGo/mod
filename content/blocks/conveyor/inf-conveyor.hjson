@@ -1,6 +1,4 @@
 type: Conveyor
-name: Infinitium conveyor
-description: Uses power of infinitium to be faster than Dark Matter Conveyor
 requirements: [
   dark-steel/40
   infinitium/1

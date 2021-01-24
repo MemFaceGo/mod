@@ -1,8 +1,6 @@
 {
 
 "type": "GenericCrafter", 
-"name": "Oil unpacker", 
-"description": "Unacks [#313131]oil[white] from [cyan]universal liquid capsules[white].", 
 "health": 70, 
 "size": 1, 
    "requirements": 

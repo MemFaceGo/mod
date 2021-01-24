@@ -1,8 +1,6 @@
 type: GenericSmelter
-name: Super Compresor
-description: You can get DIAMOND from it.
 health: 12000
-itemCapacity: 50
+itemCapacity: 80
 outputItem: diamond/2
 size: 3
 hasPower: true

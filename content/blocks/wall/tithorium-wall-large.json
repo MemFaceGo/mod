@@ -1,6 +1,4 @@
 {
-	"name": "Large Tithorium Wall",
-	"description": "This is tithorium wall ,but bigger",
 	"type": "Wall",
 	"health": 5400,
 	"size": 2,

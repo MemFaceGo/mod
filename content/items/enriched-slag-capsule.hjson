@@ -1,6 +1,4 @@
 type: material
-name: Enriched Slag capsule
-description: Universal liquid capsule with Enriched Slag
 hardness: 1.0
 cost: 2.0
 color: 486acd

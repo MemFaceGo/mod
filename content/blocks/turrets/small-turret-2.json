@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "Turret S10-Minigun",
-	"description":"Minigun for mindustry",
 	"size": 2,
 	"health": 840,
 	"reloadTime": 5,

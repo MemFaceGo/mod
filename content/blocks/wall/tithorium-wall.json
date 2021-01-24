@@ -1,6 +1,4 @@
 {
-	"name": "Tithorium Wall",
-	"description": "Has enough protection to be better than dark steel wall",
 	"type": "Wall",
 	"health": 1350,
 	"size": 1,

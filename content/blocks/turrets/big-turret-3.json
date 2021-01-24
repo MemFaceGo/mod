@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "Minigun Turret U120-Super",
-	"description":"Minigun turret",
 	"size": 4,
 	"health": 2050,
 	"reloadTime": 0.1,

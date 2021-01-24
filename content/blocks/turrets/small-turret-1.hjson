@@ -1,5 +1,3 @@
-name: Laser Turret B2-A
-description: Fast and compact laser turret..
 type: itemTurret
 requirements: [
 	comp-titanium/14

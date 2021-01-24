@@ -1,6 +1,4 @@
 type: Conveyor
-name: Quantum conveyor
-description: The best conveyor
 requirements: [
   dark-steel/4
   quantum-ingot/1

@@ -2,13 +2,13 @@ const hugevault = extendContent(StorageBlock, "hugevault", {
     icons(){
     return [
         Core.atlas.find(this.name),
-        Core.atlas.find("Better-Blocks-Mod-hugevault-team")
+        Core.atlas.find("[purple]better-blocks[white]-mod-hugevault-team")
     ];},
 
     draw() {
-        Draw.rect(Core.atlas.find("Better-Blocks-Mod-hugevault"), this.x, this.y);
+        Draw.rect(Core.atlas.find("[purple]better-blocks[white]-mod-hugevault"), this.x, this.y);
         Draw.color(this.team.color);
-        Draw.rect(Core.atlas.find("Better-Blocks-Mod-hugevault-team"), this.x, this.y);
+        Draw.rect(Core.atlas.find("[purple]better-blocks[white]-mod-hugevault-team"), this.x, this.y);
         Draw.color();
     }
 });

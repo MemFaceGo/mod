@@ -1,8 +1,6 @@
 {
 
 "type": "GenericCrafter", 
-"name": "Cryofluid unpacker", 
-"description": "Unacks [#87ceeb]cryofluid[white] from [cyan]universal liquid capsules[white].", 
 "health": 70, 
 "size": 1, 
    "requirements": 

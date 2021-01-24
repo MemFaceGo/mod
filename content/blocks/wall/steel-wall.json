@@ -1,6 +1,4 @@
 {
-	"name": "Steel Wall",
-	"description": "Nice wall with high protection",
 	"type": "Wall",
 	"health": 1020,
 	"size": 1,

@@ -1,6 +1,4 @@
 {
-	"name": "Large Carbon Wall",
-	"description": "Upgraded version of large steel wall",
 	"type": "Wall",
 	"health": 9360,
 	"size": 2,

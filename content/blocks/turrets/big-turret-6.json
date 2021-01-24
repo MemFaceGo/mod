@@ -1,7 +1,5 @@
 {
 	"type": "ItemTurret",
-	"name": "[#A3141A]Bomber",
-	"description":"Uses Blast Compound",
 	"size": 4,
 	"health": 1800,
 	"reloadTime": 240,

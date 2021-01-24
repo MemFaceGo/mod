@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Enrichment Machine
-description: This maching doing uranium enrichment (Needs so many power).
 health: 700
 itemCapacity: 4
 outputItem: enriched-uran/2

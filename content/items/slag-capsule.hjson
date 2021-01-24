@@ -1,6 +1,4 @@
 type: material
-name: Slag capsule
-description: Universal liquid capsule with slag
 hardness: 1.0
 cost: 2.0
 color: ffcd66

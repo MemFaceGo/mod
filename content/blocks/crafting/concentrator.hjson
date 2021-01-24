@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Concentrator
-description: Uses coal and oil to get carbon mass
 health: 1400
 itemCapacity: 20
 outputItem: carbon-mass/2
