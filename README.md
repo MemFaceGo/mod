@@ -1,4 +1,4 @@
-![Logo](sprites/ReadMe/Better-Blocks-Mod.gif)
+![Logo](sprites/ReadMe/Logo.gif)
 
 # Better-Blocks-Mod
 # Mod Mindustry v6.0
