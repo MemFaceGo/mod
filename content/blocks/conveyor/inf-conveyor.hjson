@@ -6,4 +6,5 @@ requirements: [
 category: distribution
 health: 8000
 speed: 1.00
+displayedSpeed: 130
 research: dm-conveyor

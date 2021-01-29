@@ -6,5 +6,6 @@ requirements: [
 ]
 category: distribution
 health: 2500
-speed: 0.56666666
+speed: 0.56
+displayedSpeed: 61
 research: q-conveyor

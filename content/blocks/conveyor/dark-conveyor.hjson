@@ -7,4 +7,5 @@ requirements: [
 category: distribution
 health: 250
 speed: 0.12
+displayedSpeed: 16
 research: iron-conveyor

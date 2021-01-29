@@ -5,5 +5,6 @@ requirements: [
 ]
 category: distribution
 health: 320
-speed: 0.1666666666
+speed: 0.16
+displayedSpeed: 21
 research: dark-conveyor
