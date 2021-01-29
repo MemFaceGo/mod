@@ -25,8 +25,8 @@ consumes: {
   liquid: {
   liquid: cryofluid
   amount: 0.1
-  booster: false
-  optional: false
+  booster: true
+  optional: true
   }
 }
 reloadTime: 30

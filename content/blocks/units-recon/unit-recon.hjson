@@ -11,8 +11,20 @@ plans: [
 		ruby/12
 		plut/6
 		quantum-ingot/2
+		surge-alloy/12
     ] 
     time: 600
+  }
+  {
+    unit: nucledon
+    requirements: [
+      enriched-uran/192
+      iron/12
+      plut/6
+      super-tithorium/2
+	  surge-alloy/34
+    ]
+	time: 900
   }
 ]
 requirements: [

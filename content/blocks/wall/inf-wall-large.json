@@ -1,6 +1,6 @@
 {
 	"type": "Wall",
-	"health": 70000,
+	"health": 31000,
 	"size": 2,
 	"requirements": [
 		{ "item": "infinitium", "amount": 4 },
