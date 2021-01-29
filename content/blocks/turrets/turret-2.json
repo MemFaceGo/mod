@@ -7,7 +7,7 @@
 	"maxAmmo": 50,
 	"shots": 2,
 	"shootSound" : "shootSnap",
-	"inaccuracy": 35,
+	"inaccuracy": 18,
 	"shootcone": 70,
 	"rotatespeed": 10,
 	"recoilAmount" : 2,
