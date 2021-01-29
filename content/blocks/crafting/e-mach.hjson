@@ -1,5 +1,5 @@
 type: GenericSmelter
-health: 700
+health: 70
 itemCapacity: 4
 outputItem: enriched-uran/2
 size: 1

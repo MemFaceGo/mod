@@ -1,5 +1,5 @@
 type: GenericSmelter
-health: 8000
+health: 800
 itemCapacity: 10
 outputItem: plut/2
 size: 3

@@ -1,6 +1,6 @@
 type: Drill
 size: 4
-health: 75000
+health: 7500
 tier: 15
 drillTime: 20
 rotateSpeed: 14

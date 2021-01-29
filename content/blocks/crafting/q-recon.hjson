@@ -1,5 +1,5 @@
 type: GenericSmelter
-health: 25000
+health: 2500
 itemCapacity: 5
 liquidCapacity: 160
 outputLiquid: quantum-liquid/64

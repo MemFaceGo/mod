@@ -1,6 +1,6 @@
 type: ItemTurret
 shootSound: laser
-health: 20000
+health: 2000
 size: 4
 reloadTime: 50
 range: 450

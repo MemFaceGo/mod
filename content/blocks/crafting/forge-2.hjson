@@ -1,5 +1,5 @@
 type: GenericSmelter
-health: 5000
+health: 500
 itemCapacity: 40
 outputItem: super-tithorium/2
 size: 3

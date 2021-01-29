@@ -1,5 +1,5 @@
 type: GenericCrafter
-health: 2850
+health: 285
 itemCapacity: 5
 liquidCapacity: 12
 outputLiquid: enriched-slag/4

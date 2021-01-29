@@ -1,6 +1,6 @@
 {
 	"type": "PowerNode",
-	"health": 25000,
+	"health": 2500,
 	"size": 3,
 	"maxNodes": 40,
 	"laserRange": 70,

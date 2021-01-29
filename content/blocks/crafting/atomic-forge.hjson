@@ -1,5 +1,5 @@
 type: GenericSmelter
-health: 40000
+health: 4000
 itemCapacity: 6
 outputItem: dark-matter/2
 size: 8

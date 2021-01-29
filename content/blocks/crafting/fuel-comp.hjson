@@ -1,5 +1,5 @@
 type: GenericSmelter
-health: 5000
+health: 500
 itemCapacity: 20
 outputItem: nuclear-fuel/2
 size: 3

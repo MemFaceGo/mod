@@ -1,5 +1,5 @@
 type: GenericSmelter
-health: 2600
+health: 260
 itemCapacity: 15
 outputItem: comp-thorium/2
 size: 2

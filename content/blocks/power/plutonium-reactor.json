@@ -8,7 +8,7 @@
   "solid": true,
   "hasPower": true,
   "explosionRadius": 125,
-  "health": 2000,
+  "health": 200,
   "itemDuration": 360,
   "lightColor": "250000",
   "hotColor": "ff0000",

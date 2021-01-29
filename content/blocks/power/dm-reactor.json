@@ -1,7 +1,7 @@
 {
 	"type": "SolarGenerator",
 	"size": 2,
-	"health": 24000,
+	"health": 2400,
     "powerProduction": 1655,
 	"requirements": [
 		{"item": "quantum-ingot", "amount": 20},

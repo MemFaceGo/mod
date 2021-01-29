@@ -1,7 +1,7 @@
 {
 	"type": "battery",
 	"size": 3,
-	"health": 12000,
+	"health": 1200,
 	"category": "power",
 	"requirements": [
 		{"item": "quantum-ingot", "amount": 2},

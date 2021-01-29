@@ -1,7 +1,7 @@
 {
 	"type": "battery",
 	"size": 3,
-	"health": 2000,
+	"health": 200,
 	"category": "power",
 	"requirements": [
 		{"item": "lithium", "amount": 100},

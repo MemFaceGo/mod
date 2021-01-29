@@ -1,7 +1,7 @@
 {
 	"type": "SolarGenerator",
 	"size": 3,
-	"health": 32000,
+	"health": 3200,
     "powerProduction": 1000,
 	"requirements": [
 		{"item": "infinitium", "amount": 2},
