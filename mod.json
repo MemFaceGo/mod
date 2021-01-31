@@ -1,6 +1,7 @@
 {
-  "name": "[purple]Better[] blocks mod",
-  "author": "MemFaceGo",
-  "description": "Мод для игры на сервере [white]MINDUSTRY[blue].RU[red]:8000[white]\n\n --------------\n\n[#234acf]Discord: [red][WEB] [#6E83CB]http://discord.mindustry.ru [white]\n\n--------------\n\n[#559955]Developers[white]:\n \n[white]-[#22BB22]MemFaceGo[white] ([red]Head Developer[white])\n[white]-~Ma[blue]st[red]er~[white] ([blue]First Developer[white]) ",
-  "version": "1.6.9"
+  "name": "[purple]better-blocks[white]-mod",
+  "author": "",
+  "description": "",
+  "version": "1.0.3",
+  "minGameVersion": "123"
 }
